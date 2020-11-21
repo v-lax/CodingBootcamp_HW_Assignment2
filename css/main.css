@@ -1,0 +1,39 @@
+body{
+    background-color: #1f3c88;
+}
+
+
+#nav-bar{
+    min-height: 100vh;
+    font-family:'Saira Condensed';
+    background-color: #070d59;
+    position: sticky;
+}
+
+#main{
+    min-height: 100vh;
+    font-family:'Saira Condensed';
+    background-color: #f6f5f5;
+}
+
+#profile-pic {
+    width:200px;
+    border:10px solid #ee6f57 ;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+}
+
+#india-pic {
+    width:200px;
+    border:10px solid #1f3c88 ;
+    border-radius: 5%;
+}
+
+li{
+    color: #ee6f57;
+}
+
+a{
+    color: inherit;
+}
