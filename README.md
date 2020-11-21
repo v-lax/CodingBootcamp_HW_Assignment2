@@ -9,8 +9,8 @@ A basic portfolio with links to all my projects, linkedin and git hub pages. I m
 
 
 # Screenshot of portfolio
-
+![Screenshot of Portfolio](../assets/screen_shot.png)
 
 # Link to deployed site
-
+[link](https://v-lax.github.io/ResponsivePortfolio/html/main.html)
 
